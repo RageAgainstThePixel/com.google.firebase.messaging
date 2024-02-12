@@ -4,9 +4,16 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.google.firebase</groupId>
   <artifactId>firebase-messaging-unity</artifactId>
-  <version>6.15.2</version>
+  <version>6.16.0</version>
   <packaging>aar</packaging>
   <dependencies>
+    <dependency>
+      <groupId>androidx.core</groupId>
+      <artifactId>core</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+      <type>aar</type>
+    </dependency>
 
   </dependencies>
 </project>

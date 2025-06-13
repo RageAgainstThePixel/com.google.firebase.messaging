@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bb80b5f85ed343429f94884d00f432b9
+guid: ed4bf5bcf9054d8ebbbf23fdcb1fbd57
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-12.9.0
-- gvhp_exportpath-Firebase/Editor/FirebaseMessaging_version-12.9.0_manifest.txt
+- gvh_version-12.10.0
+- gvhp_exportpath-Firebase/Editor/FirebaseMessaging_version-12.10.0_manifest.txt
 - gvhp_manifestname-0Firebase Cloud Messaging
 - gvhp_manifestname-1FirebaseMessaging
 timeCreated: 0

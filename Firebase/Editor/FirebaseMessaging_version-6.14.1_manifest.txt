@@ -8,8 +8,8 @@ Assets/Firebase/Plugins/iOS/Firebase.Messaging.dll.mdb
 Assets/Firebase/Plugins/x86_64/FirebaseCppMessaging.bundle
 Assets/Firebase/Plugins/x86_64/FirebaseCppMessaging.dll
 Assets/Firebase/Plugins/x86_64/FirebaseCppMessaging.so
-Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/6.14.0/firebase-messaging-unity-6.14.0.pom
-Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/6.14.0/firebase-messaging-unity-6.14.0.srcaar
+Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/6.14.1/firebase-messaging-unity-6.14.1.pom
+Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/6.14.1/firebase-messaging-unity-6.14.1.srcaar
 Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/maven-metadata.xml
 Assets/Plugins/Android/AndroidManifest.xml
 Assets/Plugins/iOS/Firebase/libFirebaseCppMessaging.a

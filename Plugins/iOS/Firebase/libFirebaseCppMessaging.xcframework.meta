@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 33ee8d6580a8412d811e9c6eab8c2cb9
+guid: 790b122e319944c6beaa922941864e9a
 labels:
 - gvh
-- gvh_version-13.17.0
-- gvhp_exportpath-Plugins/iOS/Firebase/libFirebaseCppMessaging.a
+- gvh_version-14.0.0
+- gvhp_exportpath-Plugins/iOS/Firebase/libFirebaseCppMessaging.xcframework
 timeCreated: 1480838400
 PluginImporter:
   serializedVersion: 1
